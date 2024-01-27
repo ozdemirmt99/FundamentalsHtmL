@@ -1,0 +1,289 @@
+body{
+	
+background-image:url(../images/background.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+background-position:center;
+background-blend-mode:lighten;
+}
+#sirket{
+	border:25px;
+	background-color:#f3351c;
+	width:900px;
+	height:100px;
+	position:relative;
+	border-radius:28px;
+	margin:auto;
+	top:13px;
+	
+
+}
+
+
+#container
+{
+	position:relative;
+	top:45px;
+	left:150px;
+	margin:0px;
+	width:83%;
+	height:2000px;
+	background-color:grey;
+	color:green;
+	
+	z-index:-100;
+	
+}
+#menu{
+	border:5px;
+	position:sticky;
+	top:2px;
+	background-color:white;
+	width:100%;
+	height:100px;
+	border-radius:44px;
+}
+#menuic{
+	color:green;
+	width:1200px;
+	height:50px;
+}
+#menuic ul li{
+	position:sticky;
+	list-style:none;
+	top:-15px;
+	border:5px;
+	border-radius:25px;
+	border-color:blue;
+	box-shadow:6px 7px red;
+	text-align:center;
+	text-shadow:3px 5px pink ;
+	padding:20px;
+	background-color:yellow;
+	float:left;
+	margin-left:30px;
+
+}
+#menuic  a{
+	padding:5px;
+	position:relative;
+	top:-10px;
+	color:white;
+	font-size:25px;
+	font-family:arial black;
+	text-decoration:none;
+}
+#tepe{
+	
+	margin:15px;
+	color:yellow;
+	font-family:varenda;
+	font-size:75px;
+	text-align:center;
+	z-index:+100;
+	float:left;
+}
+#tepe2{
+	margin:15px;
+	color:yellow;
+	font-family:varenda;
+	font-size:75px;
+	text-align:center;
+	z-index:+100;
+	float:right;
+}
+#img img{
+	
+background-image:cover;
+background-color:#f3351c;
+float:left;
+width:200px;
+height:100px;
+z-index:+100;
+position:relative;
+left:30px;
+}
+#son{
+	width:100%;
+	height:100px;
+	background-color:black;
+	opacity:0.89;
+	font-size:55px;
+	font-family:arial;
+	bottom:-5px;
+	text-align:center;
+	color:white;
+	
+}
+
+#başlık{
+	color:white;
+	background-color:red;
+	font-size:200px;
+	text-align:center;
+	background-size:auto;
+	width:100%;
+	height:500px;
+	opacity:1.0;
+	overflow:visible
+}
+#giriş{
+	color:black;
+	background-color:blue;
+	font-size:35px;
+	font-family:vernada;
+	width:100%;height:500;
+font-style:italic
+}
+#ortasol1{
+	color:black;
+	font-size:20px;
+	font-family;arial;
+	width:49%;
+	height:500px;
+	float:left;
+	background-color:lightblue;
+}
+#ortasağ{
+	color:white;
+	font-size:38px;
+	font-style:italic;
+	float:right;
+	height:1000px;
+	width:51%;
+	margin:0px;
+	padding:0px;
+	background-color:#03a9f4;
+}
+#ortasol2{
+	color:white;
+	font-size:25px;
+	font-style:bold;
+	background-color:blue;
+	height:500px;
+	width:49%;
+	padding:0px;
+	margin:0px;
+	float:left;
+}
+/*2.SAYFA*/
+#container2
+{
+	background-size:auto;
+	
+	position:relative;
+	
+	left:100px;
+	margin-top:80px;
+	width:84%;
+	height:1000px;
+	background-color:grey;
+	color:green;
+	opacity:0.9;
+	z-index:-100;
+}
+#sayfa2-1{
+	color:black;
+	float:left;
+	background-color:#18e5ea;
+	width:50%;
+	height:500px;
+}
+#sayfa2-2{
+	color:black;
+	float:left;
+	background-color:#e318ea;
+	width:50%;
+	height:500px;
+}
+#sayfa2-3{
+	color:black;
+	float:left;
+	background-color:#9cf305;
+	width:50%;
+	height:500px;
+}
+#sayfa2-4{
+	color:black;
+	font-style:bold;
+	float:left;
+	background-color:blue;
+	width:50%;
+	height:500px;	
+}
+/*sayfa3*/
+#sayfa3-1{
+	color:white;
+	font-size:26px;
+	background-color:pink;
+	float:left;
+	width:900px;
+	height:250px;
+	margin-left:75px;
+	margin-top:22px;
+}
+#sayfa3-2{
+	color:grey;
+	font-size:20px;
+	font-style: italic;
+	margin-top:25px;
+	float:left;
+	background-color:white;
+	margin-right:10px;
+	width:500px;
+	height:350px;
+}
+/*sayfa4*/
+#sayfa4-1{
+	font-size:25px;
+	color:black;
+	margin-top:35px;
+	background-color:white;
+	background-size:auto;
+	width:84%;
+	height:200px;
+	left:65px;
+	position:relative;
+}
+#sayfa5-1{
+	color:black;
+	margin-left:250px;
+	width:600px;
+	height:200px;
+	background-color:pink;
+	font-size:35px;
+	background-size:auto;
+}
+#sayfa5-2{
+	color:black;
+	margin-top:50px;
+margin-left:250px;
+	width:600px;
+	height:200px;
+	background-color:blue;
+	font-size:35px;
+	background-size:auto;
+}
+#sayfa5-3{color:black;
+	margin-top:50px;
+	margin-left:250px;
+	width:600px;
+	height:200px;
+	background-color:white;
+	font-size:35px;
+	background-size:auto;
+}
+#sayfa5-4{color:black;
+	margin-top:50px;
+	margin-left:250px;
+	width:600px;
+	height:200px;
+	background-color:black;
+	color:white;
+font-size:24px;
+background-size:auto;
+}
+#resim{
+	width:100%;
+	height:50%;
